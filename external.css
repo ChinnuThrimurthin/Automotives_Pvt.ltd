@@ -1,0 +1,25 @@
+
+
+
+
+.class1{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: violet;
+}
+.class2{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color:rebeccapurple;
+}
+.class3{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: palegoldenrod;
+}
+#sec1{
+    display: flex;
+}

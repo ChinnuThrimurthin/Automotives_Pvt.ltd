@@ -1,0 +1,17 @@
+
+.opacity{
+  opacity: 0.6;
+}
+.footer_main{
+  display: flex;
+}
+.spaces{
+  padding: 40px;
+}
+.carousel{
+  display: flex;
+  height: 1100px;
+  width: 1540px;
+  
+
+}
